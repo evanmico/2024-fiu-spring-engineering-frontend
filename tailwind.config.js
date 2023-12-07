@@ -13,7 +13,7 @@ export default {
       crimson: '#D7263D',
       lapis: '#1C5D99',
       moon: '#639FAB',
-      light: '#E2EAF4'
+      light: '#CFE4FF'
     },
     extend: {},
   },
